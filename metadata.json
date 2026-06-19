@@ -1,0 +1,6 @@
+{
+  "name": "Virtual Cell Simulator",
+  "description": "An interactive, playable sandbox simulating cellular transport, osmosis, and ATP factory dynamics using systems thinking and playful interactions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
